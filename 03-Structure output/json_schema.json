@@ -1,0 +1,10 @@
+{
+    "title":"studnet",
+    "Description" : "Schema about the student",
+    "type":"Object",
+    "properties":{
+        "name":"string",
+        "age":"integer"
+    },
+    "required":["name"]
+}

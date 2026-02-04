@@ -1,0 +1,31 @@
+1. UI Based enhancements
+2. Evaluation
+    a.Ranges
+    b. Langsmith
+3. Indexing
+    a. Document Ingestion
+    b. text splitting
+    c. vector store
+4. Retrieval
+    pre - Retrieval
+        a. Query rewritting using LLM
+        b. multi Query Generation
+        c. Domain aware routing
+    during Retrieval
+        a. MMR
+        b. Hybrid Retrieval
+        c. Reranking
+    Post - Retrieval
+        a Contextual Comparisson
+5. Augementation
+    a. Prompt templating
+    b. Answer grounding
+    c. Context window optimization
+6. Generation
+    a. Answer with Citation
+    b. Guard raling
+7 System Design
+    a. Multimodel
+    b. Agentic
+    c. Memory Based
+
